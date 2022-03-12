@@ -1,5 +1,5 @@
-# musings.krabf.com
+# blog.krabf.com
 
-Welcome to the source code of my [musings site](https://musings.krabf.com).
+Welcome to the source code of my [musings site](https://blog.krabf.com).
 
-Let's go
+Created with Eleventy
