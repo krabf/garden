@@ -30,7 +30,7 @@ I pulled a great espresso today with Cerrado beans from the Good Cup. I tweaked 
 
 📝 Tasting Notes: 
 
-⚙️ Grind Settings : 
+⚙️ Grind Settings: 
 
 ⚖️ Ratio: 
 
