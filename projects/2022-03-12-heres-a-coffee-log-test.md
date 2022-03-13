@@ -8,6 +8,7 @@ origin: Cerrado Region, Brazil
 producers: Minasul
 notes: toffee, vanilla, chocolate, roasted walnut, buttery
 process: Natural
+is_featured: true 
 ---
 
 Coffee Log test
