@@ -15,6 +15,8 @@ bdate: February 22, 2022
 is_featured: true 
 ---
 
+<hr>
+
 This is a sample coffee log post with notes above
 
 
